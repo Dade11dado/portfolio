@@ -14,3 +14,7 @@ with col2:
     programmazione, non veo l'ora di scoprire cosa altro potrò creare!
     """
     st.info(content)
+
+content2 = """Qui sotto trovi tutte le applicazioni che ho creato, sentiti pure libero di 
+conttattarmi dalla sezione dedicata!"""
+st.write(content2)
